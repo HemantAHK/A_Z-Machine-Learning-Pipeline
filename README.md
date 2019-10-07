@@ -1,1 +1,1 @@
-# A_Z-Machine-Learning-Pipeline
+![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/5ff89cbc-ea1e-4ab0-b646-877369cad553/Image/f1899cfe5dc70270ff9f55b31ee4d2af/building_a_machine_learning_application.png)
